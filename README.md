@@ -3,6 +3,8 @@
 
 # Unity6 엔진 출시 기념 이벤트 "Unity 6 Challenge Start!"
 이벤트 URL : https://www.youtube.com/channel/UCQArZVLg7Omzg4cBReJTS3w/community?lb=UgkxBvdFaa5NQjQd2ywRTgOf5zGqxWLnzog9
+만든 게임 URL : https://play.unity.com/en/games/67649d49-b4e2-4ffe-89c3-afc6d0eaf52e/kimchi-run-by-nona
+조작법 : 점프 -> Space,  Continue -> Space
 
 노마드 코더와 함께 여러분의 첫 게임 개발을 Unity 6로 시작해보세요!
 이벤트에 소모한 기간 24/12/20 ~ 24/12/22 (총 3일)
